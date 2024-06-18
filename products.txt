@@ -1,0 +1,8 @@
+Bakery:
+ bread,cookies,pizza,burger,donuts
+Vegetables:
+ potato,tomato,cabbage,carrot,cauliflower
+Dairy products:
+ milk,curd,yogurt,cheese,buttermilk
+Beverages:
+ water,pepsi,cocacola,coldcoffee,fruitjuice
